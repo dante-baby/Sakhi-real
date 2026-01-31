@@ -1,0 +1,7 @@
+{
+  "name": "Sakhi - Safe Space",
+  "description": "A safe, anonymous, and supportive environment for young girls to find resources, counseling, and community.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
